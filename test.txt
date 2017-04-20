@@ -1,2 +1,3 @@
 this is a test txt.
-add test
+add test.
+ok.
